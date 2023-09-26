@@ -4,3 +4,5 @@
 
 ---
 ### Tugas : Membuat crad 4 x 3 menggunakan Bootstrap
+
+![dashboard](img/dashboard.png)
